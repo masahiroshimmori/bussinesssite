@@ -1,2 +1,2 @@
 # bussinesssite
-bootstrap3を用いたビジネスサイト（レシポンシブル）
+bootstrap２を用いたビジネスサイト（レシポンシブル）
